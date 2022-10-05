@@ -1,3 +1,4 @@
 Nettoyage du code HTML
 
- [voir](https://github.com/clementgutu/faq.git)
+ [voir le git](https://github.com/clementgutu/nettoyage.git)
+ [voir la page]
